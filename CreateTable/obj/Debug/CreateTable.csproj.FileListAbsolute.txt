@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\bin\Debug\CreateTable.exe.config
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\bin\Debug\CreateTable.exe
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\bin\Debug\CreateTable.pdb
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.Form1.resources
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.Properties.Resources.resources
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.csproj.GenerateResource.cache
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.exe
+C:\Users\student\Desktop\group3\CreateTable\CreateTable\obj\Debug\CreateTable.pdb

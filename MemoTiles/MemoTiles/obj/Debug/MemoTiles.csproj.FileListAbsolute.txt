@@ -1,0 +1,36 @@
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe.config
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\bin\Debug\MemoTiles.pdb
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.AssemblyReference.cache
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form1.resources
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form2.resources
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Properties.Resources.resources
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.GenerateResource.cache
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.CoreCompileInputs.cache
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.exe
+C:\Users\abbos\source\repos\MemoTiles\MemoTiles\obj\Debug\MemoTiles.pdb
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.exe
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.pdb
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe.config
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\bin\Debug\MemoTiles.pdb
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form1.resources
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form2.resources
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Desktop\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.CoreCompileInputs.cache
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe.config
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\bin\Debug\MemoTiles.exe
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\bin\Debug\MemoTiles.pdb
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.AssemblyReference.cache
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form1.resources
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Form2.resources
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.Properties.Resources.resources
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.GenerateResource.cache
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.csproj.CoreCompileInputs.cache
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.exe
+C:\Users\42770\Downloads\Telegram Desktop\MemoTiles (3)\MemoTiles\MemoTiles\obj\Debug\MemoTiles.pdb
